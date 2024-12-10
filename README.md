@@ -8,7 +8,6 @@ Ver o histórico de revisões: Veja tudo o que já foi feito em cada drone.
 Ah, e tudo isso acontece em tempo real! Ou seja, o cliente e o servidor se comunicam via RabbitMQ/Kafka, garantindo que tudo seja atualizado na hora.
 
 Como rodar o projeto?
-Aqui vai um passo a passo bem direto pra você, professor, rodar o sistema:
 
 1. Pré-requisitos
 Java JDK 17 ou superior instalado.
