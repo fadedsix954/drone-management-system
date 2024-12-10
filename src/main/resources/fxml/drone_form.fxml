@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="com.exemplo.controller.DroneController">
+    <TextField fx:id="nomeField" promptText="Nome do Drone"/>
+    <TextField fx:id="modeloField" promptText="Modelo do Drone"/>
+    <Button fx:id="saveButton" text="Salvar" onAction="#handleSave"/>
+</VBox>
